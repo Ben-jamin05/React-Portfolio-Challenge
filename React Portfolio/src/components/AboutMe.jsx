@@ -2,8 +2,8 @@
 const AboutMe = () => {
     return (
       <section>
-        <img src="" alt="Developer" />
-        <p>Write short bio about me.</p>
+        <img src="./src/assets/images/totally-me.jpeg" alt="Developer" />
+        <p>I know how to code pretty well. I really dont know what else to say I will add to this soon.</p>
       </section>
     );
   };
