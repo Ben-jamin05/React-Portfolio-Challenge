@@ -1,7 +1,7 @@
 // src/components/Project.jsx
 const Project = ({ title, image, deployLink, repoLink }) => {
     return (
-      <div>
+      <div className="project">
         <h3>{title}</h3>
         <img src={image} alt={title} />
         <p>

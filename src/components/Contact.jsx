@@ -35,7 +35,7 @@ const Contact = () => {
   return (
     <section>
       <form>
-        <div>
+        <div className='form-input'>
           <label htmlFor="name">Name</label>
           <input
             type="text"
@@ -46,7 +46,7 @@ const Contact = () => {
           />
           {errors.name && <p>{errors.name}</p>}
         </div>
-        <div>
+        <div className='form-input'>
           <label htmlFor="email">Email</label>
           <input
             type="email"
@@ -57,7 +57,7 @@ const Contact = () => {
           />
           {errors.email && <p>{errors.email}</p>}
         </div>
-        <div>
+        <div className='form-input'>
           <label htmlFor="message">Message</label>
           <textarea
             name="message"
