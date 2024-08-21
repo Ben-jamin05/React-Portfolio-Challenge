@@ -49,8 +49,8 @@ a {
 }
 
 .project{ 
-  flex: 0 1 calc(50% - 20px); /* 50% width minus the gap */
-  background-color: #3b3233; /* Example background color */
+  flex: 0 1 calc(50% - 20px);
+  background-color: #3b3233; 
   padding: 20px;
   border-radius: 8px;
   box-sizing: border-box;
