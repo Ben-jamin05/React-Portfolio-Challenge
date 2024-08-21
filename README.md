@@ -10,7 +10,7 @@ Run npm i in the integrated terminal to be able to install all dependancies.
 
 ## Usage
 
-Use this [Link]() to go to the website.
+Use this [Link](https://main--bens-react-portfolio.netlify.app/) to go to the website.
 
 ## Credits 
 
@@ -44,4 +44,4 @@ SOFTWARE.
 
 ## Links
 
-[Link]()
+[Link](https://main--bens-react-portfolio.netlify.app/)
